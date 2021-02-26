@@ -6,7 +6,7 @@ function Contact() {
       <h1>Contact</h1>
       <ol>
         <li>
-          <strong>Phone Nimber:</strong> (XXX-XXX-XXXX)
+          <strong>Phone Number:</strong> (XXX-XXX-XXXX)
         </li>
         <li>
           <strong>Email:</strong> Yoel@gmail.com
